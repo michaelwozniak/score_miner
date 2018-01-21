@@ -43,38 +43,38 @@ The second element of Bundesliga part points out differences between real and pr
 
 
 ### Libraries: 
-*tkinter
-*tkinter -> tk.messagebox
-*csv
-*pathlib
-*sys
-*os
-*pandas
-*webbrowser
-*gspread
-*oauth2client.service_account
-*request
-*random
-*bs4
-*matplotlib.pyplot
-*numpy
-*six
-*math
+* tkinter
+* tkinter -> tk.messagebox
+* csv
+* pathlib
+* sys
+* os
+* pandas
+* webbrowser
+* gspread
+* oauth2client.service_account
+* request
+* random
+* bs4
+* matplotlib.pyplot
+* numpy
+* six
+* math
 
 As you notice, we are using os library (os.system command) which requires well working python on your win (I mean you are able use this command in your cmd: python).
 
 Description of all files:
-*main_menu.py -> please, start app using this file! Here you will find some info and hence you're going step by step
+* main_menu.py -> please, start app using this file! Here you will find some info and hence you're going step by step
 
 **PLEASE! DO NOT START APP USING ANOTHER FILES! -> ONLY main_menu.py!**
 
-*hub.py -> here, you are able to make a choice between WC predictions and BL predictions
-*wp.py -> here, we expect you are gonna fill in google forms file and name of your country
-*wp_core.py -> heart of WC predictor (algorith and visualisation)
-*bl.py -> menu of bundesliga predictor
-*bundesliga_part1.py -> it creates first table for BL predictor
-*bundesliga_part2.py -> it creates second table for BL predictor
-*bundesliga_part3.py -> it creates third table for BL predictor
-*media -> folder for images
-*datasets -> folder with databases saved in csv
+* hub.py -> here, you are able to make a choice between WC predictions and BL predictions
+* wp.py -> here, we expect you are gonna fill in google forms file and name of your country
+* wp_core.py -> heart of WC predictor (algorith and visualisation)
+* bl.py -> menu of bundesliga predictor
+* bundesliga_part1.py -> it creates first table for BL predictor
+* bundesliga_part2.py -> it creates second table for BL predictor
+* bundesliga_part3.py -> it creates third table for BL predictor
+* media -> folder for images
+* datasets -> folder with databases saved in csv
 
