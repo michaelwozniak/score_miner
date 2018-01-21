@@ -63,7 +63,7 @@ The second element of Bundesliga part points out differences between real and pr
 
 As you notice, we are using os library (os.system command) which requires well working python on your win (I mean you are able use this command in your cmd: python).
 
-Description of all files:
+### Description of all files:
 * main_menu.py -> please, start app using this file! Here you will find some info and hence you're going step by step
 
 **PLEASE! DO NOT START APP USING ANOTHER FILES! -> ONLY main_menu.py!**
