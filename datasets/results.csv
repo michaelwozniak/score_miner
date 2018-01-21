@@ -1,0 +1,154 @@
+HomeTeam;AwayTeam
+Augsburg;Bayern
+Augsburg;Eintracht
+Augsburg;Hamburger
+Augsburg;Hoffenheim
+Augsburg;Mainz
+Augsburg;Schalke
+Augsburg;Stuttgart
+Augsburg;Werder
+Bayern;Dortmund
+Bayern;Eintracht
+Bayern;Hamburger
+Bayern;Hertha
+Bayern;Hoffenheim
+Bayern;B. Monchengladbach
+Bayern;Schalke
+Bayern;Stuttgart
+Bayern;Werder
+Dortmund;Augsburg
+Dortmund;Eintracht
+Dortmund;Freiburg
+Dortmund;Hamburger
+Dortmund;Hannover
+Dortmund;Leverkusen
+Dortmund;Mainz
+Dortmund;Stuttgart
+Dortmund;Wolfsburg
+Eintracht;FC Koln
+Eintracht;Freiburg
+Eintracht;Hamburger
+Eintracht;Hannover
+Eintracht;Hertha
+Eintracht;Hoffenheim
+Eintracht;Mainz
+Eintracht;B. Monchengladbach
+Eintracht;RB Leipzig
+FC Koln;Augsburg
+FC Koln;Bayern
+FC Koln;Dortmund
+FC Koln;Hannover
+FC Koln;Leverkusen
+FC Koln;Mainz
+FC Koln;B. Monchengladbach
+FC Koln;Schalke
+FC Koln;Stuttgart
+Freiburg;Augsburg
+Freiburg;Bayern
+Freiburg;FC Koln
+Freiburg;Leverkusen
+Freiburg;RB Leipzig
+Freiburg;Stuttgart
+Freiburg;Werder
+Freiburg;Wolfsburg
+Hamburger;FC Koln
+Hamburger;Freiburg
+Hamburger;Hannover
+Hamburger;Hertha
+Hamburger;Leverkusen
+Hamburger;Mainz
+Hamburger;B. Monchengladbach
+Hamburger;Schalke
+Hannover;Augsburg
+Hannover;Bayern
+Hannover;Freiburg
+Hannover;Hertha
+Hannover;Mainz
+Hannover;B. Monchengladbach
+Hannover;RB Leipzig
+Hannover;Werder
+Hannover;Wolfsburg
+Hertha;Augsburg
+Hertha;Dortmund
+Hertha;FC Koln
+Hertha;Freiburg
+Hertha;Hoffenheim
+Hertha;Mainz
+Hertha;RB Leipzig
+Hertha;Wolfsburg
+Hoffenheim;Dortmund
+Hoffenheim;FC Koln
+Hoffenheim;Freiburg
+Hoffenheim;Hamburger
+Hoffenheim;Hannover
+Hoffenheim;Leverkusen
+Hoffenheim;Mainz
+Hoffenheim;Wolfsburg
+Leverkusen;Augsburg
+Leverkusen;Bayern
+Leverkusen;Eintracht
+Leverkusen;Hannover
+Leverkusen;Hertha
+Leverkusen;Mainz
+Leverkusen;B. Monchengladbach
+Leverkusen;Schalke
+Leverkusen;Stuttgart
+Mainz;Bayern
+Mainz;Freiburg
+Mainz;B. Monchengladbach
+Mainz;RB Leipzig
+Mainz;Schalke
+Mainz;Stuttgart
+Mainz;Werder
+Mainz;Wolfsburg
+B. Monchengladbach;Augsburg
+B. Monchengladbach;Dortmund
+B. Monchengladbach;Freiburg
+B. Monchengladbach;Hertha
+B. Monchengladbach;Hoffenheim
+B. Monchengladbach;RB Leipzig
+B. Monchengladbach;Werder
+B. Monchengladbach;Wolfsburg
+RB Leipzig;Augsburg
+RB Leipzig;Bayern
+RB Leipzig;Dortmund
+RB Leipzig;FC Koln
+RB Leipzig;Hamburger
+RB Leipzig;Hoffenheim
+RB Leipzig;Leverkusen
+RB Leipzig;Schalke
+RB Leipzig;Wolfsburg
+Schalke;Dortmund
+Schalke;Eintracht
+Schalke;Freiburg
+Schalke;Hannover
+Schalke;Hertha
+Schalke;Hoffenheim
+Schalke;B. Monchengladbach
+Schalke;Werder
+Stuttgart;Eintracht
+Stuttgart;Hamburger
+Stuttgart;Hannover
+Stuttgart;Hertha
+Stuttgart;Hoffenheim
+Stuttgart;B. Monchengladbach
+Stuttgart;RB Leipzig
+Stuttgart;Schalke
+Stuttgart;Werder
+Werder;Dortmund
+Werder;Eintracht
+Werder;FC Koln
+Werder;Hamburger
+Werder;Hertha
+Werder;Hoffenheim
+Werder;Leverkusen
+Werder;RB Leipzig
+Werder;Wolfsburg
+Wolfsburg;Augsburg
+Wolfsburg;Bayern
+Wolfsburg;Eintracht
+Wolfsburg;FC Koln
+Wolfsburg;Hamburger
+Wolfsburg;Leverkusen
+Wolfsburg;Schalke
+Wolfsburg;Stuttgart

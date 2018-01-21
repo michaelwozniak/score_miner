@@ -1,0 +1,154 @@
+HomeTeam;AwayTeam;Date
+Leverkusen;Bayern;2018-01-15
+Eintracht;Freiburg;2018-01-15
+Augsburg;Hamburger;2018-01-15
+Stuttgart;Hertha;2018-01-15
+Werder;Hoffenheim;2018-01-15
+Hannover;Mainz;2018-01-15
+FC Koln;B. Monchengladbach;2018-01-15
+RB Leipzig;Schalke;2018-01-15
+Dortmund;Wolfsburg;2018-01-15
+B. Monchengladbach;Augsburg;2018-01-22
+Hertha;Dortmund;2018-01-22
+Wolfsburg;Eintracht;2018-01-22
+Hamburger;FC Koln;2018-01-22
+Schalke;Hannover;2018-01-22
+Hoffenheim;Leverkusen;2018-01-22
+Freiburg;RB Leipzig;2018-01-22
+Mainz;Stuttgart;2018-01-22
+Bayern;Werder;2018-01-22
+FC Koln;Augsburg;2018-01-29
+Dortmund;Freiburg;2018-01-29
+RB Leipzig;Hamburger;2018-01-29
+Werder;Hertha;2018-01-29
+Bayern;Hoffenheim;2018-01-29
+Leverkusen;Mainz;2018-01-29
+Eintracht;B. Monchengladbach;2018-01-29
+Stuttgart;Schalke;2018-01-29
+Hannover;Wolfsburg;2018-01-29
+Mainz;Bayern;2018-02-05
+FC Koln;Dortmund;2018-02-05
+Augsburg;Eintracht;2018-02-05
+Hamburger;Hannover;2018-02-05
+Hertha;Hoffenheim;2018-02-05
+Freiburg;Leverkusen;2018-02-05
+B. Monchengladbach;RB Leipzig;2018-02-05
+Wolfsburg;Stuttgart;2018-02-05
+Schalke;Werder;2018-02-05
+RB Leipzig;Augsburg;2018-02-12
+Eintracht;FC Koln;2018-02-12
+Hannover;Freiburg;2018-02-12
+Dortmund;Hamburger;2018-02-12
+Leverkusen;Hertha;2018-02-12
+Hoffenheim;Mainz;2018-02-12
+Stuttgart;B. Monchengladbach;2018-02-12
+Bayern;Schalke;2018-02-12
+Werder;Wolfsburg;2018-02-12
+Wolfsburg;Bayern;2018-02-20
+B. Monchengladbach;Dortmund;2018-02-20
+FC Koln;Hannover;2018-02-20
+Schalke;Hoffenheim;2018-02-20
+Hamburger;Leverkusen;2018-02-20
+Hertha;Mainz;2018-02-20
+Eintracht;RB Leipzig;2018-02-20
+Augsburg;Stuttgart;2018-02-20
+Freiburg;Werder;2018-02-20
+Dortmund;Augsburg;2018-02-27
+Stuttgart;Eintracht;2018-02-27
+RB Leipzig;FC Koln;2018-02-27
+Hoffenheim;Freiburg;2018-02-27
+Werder;Hamburger;2018-02-27
+Bayern;Hertha;2018-02-27
+Hannover;B. Monchengladbach;2018-02-27
+Leverkusen;Schalke;2018-02-27
+Mainz;Wolfsburg;2018-02-27
+Freiburg;Bayern;2018-03-05
+RB Leipzig;Dortmund;2018-03-05
+Eintracht;Hannover;2018-03-05
+Schalke;Hertha;2018-03-05
+Augsburg;Hoffenheim;2018-03-05
+Wolfsburg;Leverkusen;2018-03-05
+Hamburger;Mainz;2018-03-05
+FC Koln;Stuttgart;2018-03-05
+B. Monchengladbach;Werder;2018-03-05
+Hannover;Augsburg;2018-03-13
+Dortmund;Eintracht;2018-03-13
+Werder;FC Koln;2018-03-13
+Hertha;Freiburg;2018-03-13
+Bayern;Hamburger;2018-03-13
+Leverkusen;B. Monchengladbach;2018-03-13
+Stuttgart;RB Leipzig;2018-03-13
+Mainz;Schalke;2018-03-13
+Hoffenheim;Wolfsburg;2018-03-13
+RB Leipzig;Bayern;2018-03-19
+Dortmund;Hannover;2018-03-19
+Hamburger;Hertha;2018-03-19
+B. Monchengladbach;Hoffenheim;2018-03-19
+FC Koln;Leverkusen;2018-03-19
+Eintracht;Mainz;2018-03-19
+Wolfsburg;Schalke;2018-03-19
+Freiburg;Stuttgart;2018-03-19
+Augsburg;Werder;2018-03-19
+Leverkusen;Augsburg;2018-04-03
+Bayern;Dortmund;2018-04-03
+Werder;Eintracht;2018-04-03
+Hoffenheim;FC Koln;2018-04-03
+Schalke;Freiburg;2018-04-03
+Stuttgart;Hamburger;2018-04-03
+Mainz;B. Monchengladbach;2018-04-03
+Hannover;RB Leipzig;2018-04-03
+Hertha;Wolfsburg;2018-04-03
+Augsburg;Bayern;2018-04-10
+B. Monchengladbach;Hertha;2018-04-10
+Eintracht;Hoffenheim;2018-04-10
+RB Leipzig;Leverkusen;2018-04-10
+FC Koln;Mainz;2018-04-10
+Hamburger;Schalke;2018-04-10
+Dortmund;Stuttgart;2018-04-10
+Hannover;Werder;2018-04-10
+Freiburg;Wolfsburg;2018-04-10
+Wolfsburg;Augsburg;2018-04-17
+Schalke;Dortmund;2018-04-17
+Leverkusen;Eintracht;2018-04-17
+Hertha;FC Koln;2018-04-17
+Mainz;Freiburg;2018-04-17
+Hoffenheim;Hamburger;2018-04-17
+Stuttgart;Hannover;2018-04-17
+Bayern;B. Monchengladbach;2018-04-17
+Werder;RB Leipzig;2018-04-17
+Hannover;Bayern;2018-04-24
+Hamburger;Freiburg;2018-04-24
+Eintracht;Hertha;2018-04-24
+RB Leipzig;Hoffenheim;2018-04-24
+Dortmund;Leverkusen;2018-04-24
+Augsburg;Mainz;2018-04-24
+FC Koln;Schalke;2018-04-24
+Stuttgart;Werder;2018-04-24
+B. Monchengladbach;Wolfsburg;2018-04-24
+Hertha;Augsburg;2018-05-01
+Werder;Dortmund;2018-05-01
+Bayern;Eintracht;2018-05-01
+Freiburg;FC Koln;2018-05-01
+Wolfsburg;Hamburger;2018-05-01
+Hoffenheim;Hannover;2018-05-01
+Schalke;B. Monchengladbach;2018-05-01
+Mainz;RB Leipzig;2018-05-01
+Leverkusen;Stuttgart;2018-05-01
+FC Koln;Bayern;2018-05-08
+B. Monchengladbach;Freiburg;2018-05-08
+Eintracht;Hamburger;2018-05-08
+Hannover;Hertha;2018-05-08
+Stuttgart;Hoffenheim;2018-05-08
+Werder;Leverkusen;2018-05-08
+Dortmund;Mainz;2018-05-08
+Augsburg;Schalke;2018-05-08
+RB Leipzig;Wolfsburg;2018-05-08
+Freiburg;Augsburg;2018-05-15
+Hoffenheim;Dortmund;2018-05-15
+Schalke;Eintracht;2018-05-15
+Wolfsburg;FC Koln;2018-05-15
+Leverkusen;Hannover;2018-05-15
+Hamburger;B. Monchengladbach;2018-05-15
+Hertha;RB Leipzig;2018-05-15
+Bayern;Stuttgart;2018-05-15
+Mainz;Werder;2018-05-15
