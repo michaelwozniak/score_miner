@@ -73,3 +73,4 @@ bundesliga_part2.py -> it creates second table for BL predictor
 bundesliga_part3.py -> it creates third table for BL predictor
 media -> folder for images
 datasets -> folder with databases saved in csv
+
